@@ -1,16 +1,12 @@
 ## 最新文章
 
-* [谈谈数据库事务的一致性问题](article/database-consistency.md#谈谈数据库事务的一致性问题)
-  * [写一致性](article/database-consistency.md#写一致性)
-  * [读一致性](article/database-consistency.md#读一致性)
-  * [总结](article/database-consistency.md#总结)
-
-* [Go语言中方法的类型](article/go-method-type.md#go语言中方法的类型)
+* [Go中执行SQL UPDATE语句时RowsAffected()的返回值](article/go-sql-rows-affected.md#go中执行sql-update语句时rowsaffected的返回值)
 
 ## 全部文章
 
 * [Apifox导入/导出OpenAPI格式数据时的问题](article/apifox-export-problems.md#apifox导入导出openapi格式数据时的问题)
 * [BEJSON网站JSON排序工具的BUG](article/the-bug-of-bejson-jsonsort.md#bejson网站json排序工具的bug)
+* [Go中执行SQL UPDATE语句时RowsAffected()的返回值](article/go-sql-rows-affected.md#go中执行sql-update语句时rowsaffected的返回值)
 * [Go短变量重声明时的地址变化](article/go-short-variable-declarations-redeclaration.md#go短变量重声明时的地址变化)
 * [Go语言sql库unsupported type array问题](article/go-sql-unsupported-type-array.md#go语言sql库unsupported-type-array问题)
 * [Go语言type A B类型声明和type A = B类型声明的区别](article/difference-between-type-A-B-and-type-A-equals-B.md#go语言type-a-b类型声明和type-a--b类型声明的区别)
