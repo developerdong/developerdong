@@ -1,13 +1,12 @@
 ## 最新文章
-* [GORM框架的BUG](article/go-gorm-bug-column-specified-twice.md#gorm框架的bug)
-  * [出现原因](article/go-gorm-bug-column-specified-twice.md#出现原因)
-  * [解决办法](article/go-gorm-bug-column-specified-twice.md#解决办法)
 
+* [B树（B\+树）插入删除数据时的关键点](article/b-tree-key-points.md#b树b树插入删除数据时的关键点)
 
 ## 全部文章
 
 * [Apifox导入/导出OpenAPI格式数据时的问题](article/apifox-export-problems.md#apifox导入导出openapi格式数据时的问题)
 * [BEJSON网站JSON排序工具的BUG](article/the-bug-of-bejson-jsonsort.md#bejson网站json排序工具的bug)
+* [B树（B\+树）插入删除数据时的关键点](article/b-tree-key-points.md#b树b树插入删除数据时的关键点)
 * [GORM框架的BUG](article/go-gorm-bug-column-specified-twice.md#gorm框架的bug)
 * [Go中执行SQL UPDATE语句时RowsAffected()的返回值](article/go-sql-rows-affected.md#go中执行sql-update语句时rowsaffected的返回值)
 * [Go短变量重声明时的地址变化](article/go-short-variable-declarations-redeclaration.md#go短变量重声明时的地址变化)
