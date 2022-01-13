@@ -1,6 +1,6 @@
 ## 最新文章
 
-* [Go系统调用卡死的坑](article/go-syscall-trap.md#go系统调用卡死的坑)
+* [leetcode合并K个升序链表题解](article/leetcode-merge-k-sorted-lists.md#leetcode合并k个升序链表题解)
 
 ## 全部文章
 
@@ -20,5 +20,6 @@
 * [Go语言切片扩充流程](article/go-slice-expand.md#go语言切片扩充流程)
 * [Go语言官方库strings\.Repeat函数源码阅读](article/go-strings-repeat.md#go语言官方库stringsrepeat函数源码阅读)
 * [SQL WHERE语句中的“真”与“假”](article/sql-where-true-and-false.md#sql-where语句中的真与假)
+* [leetcode合并K个升序链表题解](article/leetcode-merge-k-sorted-lists.md#leetcode合并k个升序链表题解)
 * [如何关闭Win10自动更新](article/how-to-turn-off-win-10-automatic-update.md#如何关闭win10自动更新)
 * [谈谈数据库事务的一致性问题](article/database-consistency.md#谈谈数据库事务的一致性问题)
