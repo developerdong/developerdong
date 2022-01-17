@@ -39,6 +39,10 @@ func wrongExample() {
 	<-finished
 }
 
+
+// See https://gist.github.com/developerdong/e7ba6fa06b17243c6312f2936a9a1dd9
+func Splice(reader, writer *os.File) (traffic int64, err error)
+
 func rightExample() {
 	// reader模拟TCP套接字，writer模拟管道写入端
 	reader, writer := new(os.File), new(os.File)
@@ -47,24 +51,10 @@ func rightExample() {
 	finished := make(chan struct{})
 	go func() {
 		// 在一个goroutine里不断地拷贝数据
-		writerFd := int(writer.Fd())
-		rawConn, err := reader.SyscallConn()
-		if err != nil {
-			finished <- struct{}{}
-			return
-		}
-		// 在syscall.RawConn.Read方法中进行系统调用
-		rawConn.Read(func(fd uintptr) (done bool) {
-			written, err := syscall.Splice(int(fd), nil, writerFd, nil, 1<<20, 0)
-			if err != nil || written == 0 {
-				// written == 0 means end of input.
-				return true
-			}
-			return false
-		})
+		Splice(reader, writer)
 		finished <- struct{}{}
 	}()
-	// 关闭reader，试图停止拷贝数据，会导致syscall.Splice返回"use of closed file"错误，不过至少是结束了，查看net.rawConn.Read可以发现库里面做了很多其他的准备和清理工作，我们直接调用syscall.Splice缺少了这部分工作。
+	// 关闭reader，试图停止拷贝数据，会导致syscall.Splice返回错误，不过至少是结束了，查看net.rawConn.Read可以发现库里面做了很多其他的准备和清理工作，我们直接调用syscall.Splice缺少了这部分工作。
 	reader.Close()
 	<-finished
 }
