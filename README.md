@@ -1,6 +1,6 @@
 ## 最新文章
 
-* [leetcode合并两个有序数组题解](article/leetcode-merge-sorted-array.md#leetcode合并两个有序数组题解)
+* [Go系统调用卡死的坑](article/go-syscall-trap.md#go系统调用卡死的坑)
 
 ## 全部文章
 
