@@ -1,6 +1,11 @@
 ## 最新文章
 
-* [Go语言struct结构体的大小计算](article/go-struct-size.md#go语言struct结构体的大小计算)
+* [一种MySQL和Redis保证最终一致性的同步方案](article/mysql-redis-consistency.md#一种mysql和redis保证最终一致性的同步方案)
+  * [读业务端的操作](article/mysql-redis-consistency.md#读业务端的操作)
+  * [canal部分的操作](article/mysql-redis-consistency.md#canal部分的操作)
+  * [更新器的操作](article/mysql-redis-consistency.md#更新器的操作)
+  * [写业务端的操作](article/mysql-redis-consistency.md#写业务端的操作)
+  * [总结](article/mysql-redis-consistency.md#总结)
 
 ## 全部文章
 
@@ -24,5 +29,6 @@
 * [leetcode合并K个升序链表题解](article/leetcode-merge-k-sorted-lists.md#leetcode合并k个升序链表题解)
 * [leetcode合并两个有序数组题解](article/leetcode-merge-sorted-array.md#leetcode合并两个有序数组题解)
 * [leetcode求根节点到叶节点数字之和题解](article/leetcode-sum-root-to-leaf-numbers.md#leetcode求根节点到叶节点数字之和题解)
+* [一种MySQL和Redis保证最终一致性的同步方案](article/mysql-redis-consistency.md#一种mysql和redis保证最终一致性的同步方案)
 * [如何关闭Win10自动更新](article/how-to-turn-off-win-10-automatic-update.md#如何关闭win10自动更新)
 * [谈谈数据库事务的一致性问题](article/database-consistency.md#谈谈数据库事务的一致性问题)
