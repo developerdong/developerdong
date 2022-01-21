@@ -8,7 +8,7 @@
 
 首先看图：
 
-![mysql-redis-consistency drawio](https://user-images.githubusercontent.com/15864936/150296790-9b00abf1-f181-406b-9f16-c1985a54afa4.png)
+![mysql-redis-consistency drawio](../image/mysql-redis-consistency.drawio.svg)
 
 
 我特地将图中不同部分用不同的颜色标了出来，下面记录一下不同部分的操作和思考。
