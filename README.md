@@ -1,11 +1,8 @@
 ## 最新文章
 
-* [一种MySQL和Redis保证最终一致性的同步方案](article/mysql-redis-consistency.md#一种mysql和redis保证最终一致性的同步方案)
-  * [读业务端的操作](article/mysql-redis-consistency.md#读业务端的操作)
-  * [canal部分的操作](article/mysql-redis-consistency.md#canal部分的操作)
-  * [更新器的操作](article/mysql-redis-consistency.md#更新器的操作)
-  * [写业务端的操作](article/mysql-redis-consistency.md#写业务端的操作)
-  * [总结](article/mysql-redis-consistency.md#总结)
+* [Go有序map实现思路](article/go-sorted-map.md#go有序map实现思路)
+  * [按key大小顺序遍历map](article/go-sorted-map.md#按key大小顺序遍历map)
+  * [按插入顺序遍历map](article/go-sorted-map.md#按插入顺序遍历map)
 
 ## 全部文章
 
@@ -14,6 +11,7 @@
 * [B树（B\+树）插入删除数据时的关键点](article/b-tree-key-points.md#b树b树插入删除数据时的关键点)
 * [GORM框架的BUG](article/go-gorm-bug-column-specified-twice.md#gorm框架的bug)
 * [Go中执行SQL UPDATE语句时RowsAffected()的返回值](article/go-sql-rows-affected.md#go中执行sql-update语句时rowsaffected的返回值)
+* [Go有序map实现思路](article/go-sorted-map.md#go有序map实现思路)
 * [Go短变量重声明时的地址变化](article/go-short-variable-declarations-redeclaration.md#go短变量重声明时的地址变化)
 * [Go系统调用卡死的坑](article/go-syscall-trap.md#go系统调用卡死的坑)
 * [Go语言sql库unsupported type array问题](article/go-sql-unsupported-type-array.md#go语言sql库unsupported-type-array问题)
