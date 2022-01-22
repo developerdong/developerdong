@@ -1,11 +1,8 @@
 ## 最新文章
 
-* [一种MySQL和Redis保证最终一致性的同步方案](article/mysql-redis-consistency.md#一种mysql和redis保证最终一致性的同步方案)
-  * [读业务端的操作](article/mysql-redis-consistency.md#读业务端的操作)
-  * [canal部分的操作](article/mysql-redis-consistency.md#canal部分的操作)
-  * [更新器的操作](article/mysql-redis-consistency.md#更新器的操作)
-  * [写业务端的操作](article/mysql-redis-consistency.md#写业务端的操作)
-  * [总结](article/mysql-redis-consistency.md#总结)
+* [Go有序map实现思路](article/go-sorted-map.md#go有序map实现思路)
+  * [按key大小顺序遍历map](article/go-sorted-map.md#按key大小顺序遍历map)
+  * [按插入顺序遍历map](article/go-sorted-map.md#按插入顺序遍历map)
 
 ## 全部文章
 
