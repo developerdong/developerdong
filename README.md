@@ -1,8 +1,6 @@
 ## 最新文章
+* [堆操作](article/heap-operation.md#堆操作)
 
-* [Go有序map实现思路](article/go-sorted-map.md#go有序map实现思路)
-  * [按key大小顺序遍历map](article/go-sorted-map.md#按key大小顺序遍历map)
-  * [按插入顺序遍历map](article/go-sorted-map.md#按插入顺序遍历map)
 
 ## 全部文章
 
@@ -28,5 +26,6 @@
 * [leetcode合并两个有序数组题解](article/leetcode-merge-sorted-array.md#leetcode合并两个有序数组题解)
 * [leetcode求根节点到叶节点数字之和题解](article/leetcode-sum-root-to-leaf-numbers.md#leetcode求根节点到叶节点数字之和题解)
 * [一种MySQL和Redis保证最终一致性的同步方案](article/mysql-redis-consistency.md#一种mysql和redis保证最终一致性的同步方案)
+* [堆操作](article/heap-operation.md#堆操作)
 * [如何关闭Win10自动更新](article/how-to-turn-off-win-10-automatic-update.md#如何关闭win10自动更新)
 * [谈谈数据库事务的一致性问题](article/database-consistency.md#谈谈数据库事务的一致性问题)
