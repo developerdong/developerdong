@@ -1,6 +1,6 @@
 ## 最新文章
-* [堆操作](article/heap-operation.md#堆操作)
 
+* [Go语言time\.Timer的Stop方法的错误用法](article/timer-reset-block.md#go语言timetimer的stop方法的错误用法)
 
 ## 全部文章
 
@@ -14,6 +14,7 @@
 * [Go系统调用卡死的坑](article/go-syscall-trap.md#go系统调用卡死的坑)
 * [Go语言sql库unsupported type array问题](article/go-sql-unsupported-type-array.md#go语言sql库unsupported-type-array问题)
 * [Go语言struct结构体的大小计算](article/go-struct-size.md#go语言struct结构体的大小计算)
+* [Go语言time\.Timer的Stop方法的错误用法](article/timer-reset-block.md#go语言timetimer的stop方法的错误用法)
 * [Go语言type A B类型声明和type A = B类型声明的区别](article/difference-between-type-A-B-and-type-A-equals-B.md#go语言type-a-b类型声明和type-a--b类型声明的区别)
 * [Go语言中string的最大长度](article/go-string-max-size.md#go语言中string的最大长度)
 * [Go语言中执行SQL WHERE语句时如何支持IN (slice)条件](article/go-sql-in-slice.md#go语言中执行sql-where语句时如何支持in-slice条件)
