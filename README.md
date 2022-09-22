@@ -2,6 +2,7 @@
 * [AX程序放到Jupiter上执行的整个流程](article/ax-jupiter-procedure.md#ax程序放到jupiter上执行的整个流程)
 * [Apifox导入/导出OpenAPI格式数据时的问题](article/apifox-export-problems.md#apifox导入导出openapi格式数据时的问题)
 * [BEJSON网站JSON排序工具的BUG](article/the-bug-of-bejson-jsonsort.md#bejson网站json排序工具的bug)
+* [BitBake中DEPENDS变量的作用](article/bitbake-variable-depends.md#bitbake中depends变量的作用)
 * [B树（B\+树）插入删除数据时的关键点](article/b-tree-key-points.md#b树b树插入删除数据时的关键点)
 * [Chrome插件Google Translate与wiki\.siemens\.com不兼容](article/google-translate-siemens-wiki-incompatible.md#chrome插件google-translate与wikisiemenscom不兼容)
 * [GORM框架的BUG](article/go-gorm-bug-column-specified-twice.md#gorm框架的bug)
