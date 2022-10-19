@@ -21,6 +21,7 @@
 * [Go语言切片扩充流程](article/go-slice-expand.md#go语言切片扩充流程)
 * [Go语言官方库strings\.Repeat函数源码阅读](article/go-strings-repeat.md#go语言官方库stringsrepeat函数源码阅读)
 * [SQL WHERE语句中的“真”与“假”](article/sql-where-true-and-false.md#sql-where语句中的真与假)
+* [cloudflare恢复被墙v2ray](article/cloudflare-unblock-v2ray.md#cloudflare恢复被墙v2ray)
 * [k8s使用代理拉取镜像](article/k8s-pull-proxy.md#k8s使用代理拉取镜像)
 * [leetcode合并K个升序链表题解](article/leetcode-merge-k-sorted-lists.md#leetcode合并k个升序链表题解)
 * [leetcode合并两个有序数组题解](article/leetcode-merge-sorted-array.md#leetcode合并两个有序数组题解)
