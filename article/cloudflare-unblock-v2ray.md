@@ -1,0 +1,8 @@
+# cloudflare恢复被墙v2ray
+
+按网上的说法，如果v2ray使用websocket+TLS模式，
+就可以使用cloudflare DNS的代理功能恢复被墙的v2ray。
+但是这里有个需要注意的就是cloudflare SSL/TLS的加密模式必须是Full，
+也就是从浏览器到cloudflare，以及从cloudflare到v2ray服务器都要加密。
+如果选了Flexible模式，从cloudflare到v2ray服务器是不加密的，
+但v2ray又配置成了使用TLS，这样就会造成不兼容。
