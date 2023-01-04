@@ -1,5 +1,5 @@
 
-* [AX程序放到Jupiter上执行的整个流程](article/ax-jupiter-procedure.md#ax程序放到jupiter上执行的整个流程)
+* [AX程序放到Jupiter上执行的整个流程(Deprecated)](article/ax-jupiter-procedure.md#ax程序放到jupiter上执行的整个流程deprecated)
 * [Apifox导入/导出OpenAPI格式数据时的问题](article/apifox-export-problems.md#apifox导入导出openapi格式数据时的问题)
 * [BEJSON网站JSON排序工具的BUG](article/the-bug-of-bejson-jsonsort.md#bejson网站json排序工具的bug)
 * [BitBake中DEPENDS变量的作用](article/bitbake-variable-depends.md#bitbake中depends变量的作用)
