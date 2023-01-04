@@ -1,4 +1,4 @@
-# AX程序放到Jupiter上执行的整个流程
+# AX程序放到Jupiter上执行的整个流程(Deprecated)
 
 用AX编写程序，然后由omsp_jupiter_proxy传到Jupiter，
 然后用omspAdapter编译成plcapp可以识别的代码后放到共享内存，
