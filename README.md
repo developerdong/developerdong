@@ -30,4 +30,5 @@
 * [一种MySQL和Redis保证最终一致性的同步方案](article/mysql-redis-consistency.md#一种mysql和redis保证最终一致性的同步方案)
 * [堆操作](article/heap-operation.md#堆操作)
 * [如何关闭Win10自动更新](article/how-to-turn-off-win-10-automatic-update.md#如何关闭win10自动更新)
+* [如何在Git LFS中上传文件？](article/how-to-upload-by-git-lfs.md#如何在git-lfs中上传文件)
 * [谈谈数据库事务的一致性问题](article/database-consistency.md#谈谈数据库事务的一致性问题)
